@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AppExemploAula4aN2022_2</string>
     <string name="txtDesenho">Desenho</string>
+    <string name="txtSensores">Sensores</string>
 </resources>

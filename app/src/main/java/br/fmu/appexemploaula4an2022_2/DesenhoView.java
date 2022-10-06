@@ -41,7 +41,9 @@ public class DesenhoView extends View {
     public void clear() {
         pathMap.clear();
         previousPointMap.clear();
-        bitmap.eraseColor(Color.WHITE);
+        if (bitmap != null) {
+            bitmap.eraseColor(Color.WHITE);
+        }
         invalidate();
     }
     @Override
