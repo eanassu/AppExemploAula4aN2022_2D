@@ -3,4 +3,13 @@
     <string name="txtDesenho">Desenho</string>
     <string name="txtSensores">Sensores</string>
     <string name="txtTesteBD">Teste BD</string>
+    <string name="txtRe">RE</string>
+    <string name="txtNome">Nome</string>
+    <string name="txtDataAdmissao">Data Admissão</string>
+    <string name="txtSalario">Salário</string>
+    <string name="txtCadastrar">Cadastrar</string>
+    <string name="txtBuscarPeloRe">Buscar pelo RE</string>
+    <string name="txtExcluir">Excluir</string>
+    <string name="txtAlterar">Alterar</string>
+    <string name="txtListar">Listar</string>
 </resources>
