@@ -12,4 +12,7 @@
     <string name="txtExcluir">Excluir</string>
     <string name="txtAlterar">Alterar</string>
     <string name="txtListar">Listar</string>
+    <string name="txtTesteTcp">Teste TCP</string>
+    <string name="txtTesteUDP">Teste UDP</string>
+    <string name="txtTesteHttp">Teste http</string>
 </resources>

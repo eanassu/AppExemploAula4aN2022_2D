@@ -28,4 +28,19 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent( this, TesteBDActivity.class );
         startActivity(intent);
     }
+
+    public void abrirTesteTcp(View view) {
+        Intent intent = new Intent(this, TesteTcpActivity.class);
+        startActivity(intent);
+    }
+
+    public void abrirTesteUdp(View view) {
+        Intent intent = new Intent(this, TesteUdpActivity.class);
+        startActivity(intent);
+    }
+
+    public void abrirTesteHttp(View view) {
+        Intent intent = new Intent(this, HttpTestActivity.class );
+        startActivity(intent);
+    }
 }
